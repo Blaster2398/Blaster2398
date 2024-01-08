@@ -10,8 +10,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/aryan-patel" target="blank"><img align="center" src="https://imgs.search.brave.com/6EgyLmzbyfJkgTFi9JZF5IMoROjA_-_7nrdEXnEj3-4/rs:fit:500:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy9l/L2U3L0luc3RhZ3Jh/bV9sb2dvXzIwMTYu/c3Zn.svg" alt="aryan patel" height="40" width="40" /></a>
-<a href="https://instagram.com/satoru_gojo00001" target="blank"><img align="center" src="https://imgs.search.brave.com/0onedxgdJWLsAOrzVTbco23TxXLuDJGb_uBUL74bc7k/rs:fit:500:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy9j/L2NhL0xpbmtlZElu/X2xvZ29faW5pdGlh/bHMucG5n" alt="satoru_gojo00001" height="40" width="40" /></a>
+<a href="https://instagram.com/satoru_gojo00001" target="blank"><img align="center" src="https://imgs.search.brave.com/6EgyLmzbyfJkgTFi9JZF5IMoROjA_-_7nrdEXnEj3-4/rs:fit:500:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy9l/L2U3L0luc3RhZ3Jh/bV9sb2dvXzIwMTYu/c3Zn.svg" alt="aryan patel" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/aryan-patel" target="blank"><img align="center" src="https://imgs.search.brave.com/0onedxgdJWLsAOrzVTbco23TxXLuDJGb_uBUL74bc7k/rs:fit:500:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy9j/L2NhL0xpbmtlZElu/X2xvZ29faW5pdGlh/bHMucG5n" alt="satoru_gojo00001" height="40" width="40" /></a>
 <a href="https://codeforces.com/profile/blaster2398" target="blank"><img align="center" src="https://imgs.search.brave.com/vKoBTynogq2id3rMjfNnu8-7o86kg84gOWruC6btX0A/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9zdHls/ZXMucmVkZGl0bWVk/aWEuY29tL3Q1XzMz/bzFrL3N0eWxlcy9j/b21tdW5pdHlJY29u/X3hjYWdzdDhxdGEz/OTEucG5n" alt="blaster2398" height="40" width="40" /></a>
 <a href="https://discord.gg/satorugojo2398" target="blank"><img align="center" src="https://imgs.search.brave.com/x8Fj4eJ-tPMfZ9M8zQKpGT-AUP34SKkFJxi_R2zrC_w/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMtMDAuaWNvbmR1/Y2suY29tL2Fzc2V0/cy4wMC9kaXNjb3Jk/LWljb24tMTAyNHgx/MDI0LW5vZ2VyZDk5/LnBuZw" alt="satorugojo2398" height="40" width="40" /></a>
 </p>
